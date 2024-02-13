@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Argentina Story Map</title>
+    <!-- Add your CSS file link here -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Argentina Story Map</h1>
+    </header>
+    <nav>
+        <!-- Add navigation links here -->
+        <ul>
+            <li><a href="#introduction">Introduction</a></li>
+            <li><a href="#geography">Geography</a></li>
+            <li><a href="#history">History</a></li>
+            <li><a href="#culture">Culture</a></li>
+            <!-- Add more sections as needed -->
+        </ul>
+    </nav>
+    <main>
+        <section id="introduction">
+            <h2>Introduction</h2>
+            <!-- Add introductory content here -->
+            <p>Welcome to the Argentina Story Map. This map explores the diverse landscapes, rich history, and vibrant culture of Argentina.</p>
+        </section>
+        <section id="geography">
+            <h2>Geography</h2>
+            <!-- Add content about Argentina's geography here -->
+            <p>Argentina is known for its varied geography, including the vast plains of the Pampas, the towering Andes mountains, and the stunning landscapes of Patagonia.</p>
+        </section>
+        <section id="history">
+            <h2>History</h2>
+            <!-- Add content about Argentina's history here -->
+            <p>Argentina has a complex history, from its indigenous roots to Spanish colonization, independence struggles, and modern-day political developments.</p>
+        </section>
+        <section id="culture">
+            <h2>Culture</h2>
+            <!-- Add content about Argentina's culture here -->
+            <p>Argentine culture is rich and diverse, influenced by indigenous traditions, European immigrants, and contemporary trends in music, dance, and cuisine.</p>
+        </section>
+        <!-- Add more sections for other topics -->
+    </main>
+    <footer>
+        <!-- Add footer content here -->
+        <p>&copy; 2024 Argentina Story Map</p>
+    </footer>
+    <!-- Add your JavaScript file link here for interactivity -->
+    <script src="script.js"></script>
+</body>
+</html>
